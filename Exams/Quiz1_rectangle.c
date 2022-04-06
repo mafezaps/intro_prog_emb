@@ -18,7 +18,7 @@ int main() {
         printf("This is a square. It area is = %d square centimeters\n", area);
     }else{
         area = length * width;
-        printf("This is a square. It area is = %d square centimeters\n", area);   
+        printf("This is a rectangle. It area is = %d rectangle centimeters\n", area);   
     };
 	
 
