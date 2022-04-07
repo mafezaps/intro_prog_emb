@@ -1,0 +1,33 @@
+
+   
+  //addition  
+    from audioop import mul
+import sys
+    x=int(sys.argv[1])
+    y=int(sys.argv[2])
+    sum=x+y
+    print("The addition is :",sum)
+
+
+//Substraction
+ from audioop import mul
+ import sys
+    x=int(sys.argv[1])
+    y=int(sys.argv[2])
+    subs=x-y
+    print("The Substraction is :",subs)
+
+//Multiplication
+ from audioop import mul
+import sys
+    x=int(sys.argv[1])
+    y=int(sys.argv[2])
+    mult=x*y
+    print("The Multiplication is :",mult)
+
+//Divison
+import sys
+    x=int(sys.argv[1])
+    y=int(sys.argv[2])
+    divi=x/y
+    print("The Division is :",divi)
